@@ -6,10 +6,10 @@ public class StringUtil {
        
         //메소드 내용작성
     	String result ="";
-    	for(int i=0; i<strArray.length;i++) {
+    	for(int i=0; i<strArray.length; i++) {
     		result = result + strArray[i];
     	}
-        return result;
+    	return result;
     }
 
 }
