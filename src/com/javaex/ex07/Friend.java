@@ -16,7 +16,6 @@ public class Friend {
 	}
 
 	public Friend() {
-		super();
 	}
 
 	public String getName() {
